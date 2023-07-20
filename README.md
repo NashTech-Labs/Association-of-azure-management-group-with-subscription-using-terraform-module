@@ -25,8 +25,7 @@ git@github.com:knoldus/Association-of-azure-management-group-with-subscription-u
 Change into the directory containing the module.
 
 ```bash
-cd tf.subscription
-
+cd module
 ```
 
 Initialize Terraform in the directory.
