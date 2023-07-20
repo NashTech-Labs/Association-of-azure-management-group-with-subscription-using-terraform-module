@@ -1,4 +1,4 @@
-# DuckCreek.TerraformModule.subscription
+
 This module can create Azure Subscriptions under an Microsoft Customer Agreement (MCA). 
 
 ## Prerequisites
