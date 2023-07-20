@@ -19,7 +19,7 @@ From your local, generate and Set up SSH key pair for Github.
 Clone this Git repo to your local machine.
 
 ```bash
-git@github.com:duck-creek/DuckCreek.TerraformModule.subscriptioncreation.git
+git@github.com:knoldus/Association-of-azure-management-group-with-subscription-using-terraform-module.git
 ```
 
 Change into the directory containing the module.
