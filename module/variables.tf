@@ -8,13 +8,13 @@ variable "billing_account_name" {
 variable "subscription_name" {
   type        = string
   description = "Name of the subscription"
-  default     = "IAC-Compute-Subscription"
+  default     = "Subscription"
 }
 
 variable "workload" {
   type        = string
   description = "the workload type"
-  default     = "DevTest"
+  default     = "Testing"
 }
 
 variable "enrollment_account_name" {
@@ -51,6 +51,6 @@ variable "azure_subscription_id" {
 variable "management_group_association" {
   type        = string
   description = "management group"
-  default     = "/providers/Microsoft.Management/managementGroups/IAC-Compute"
+  default     = ""
 
 }
