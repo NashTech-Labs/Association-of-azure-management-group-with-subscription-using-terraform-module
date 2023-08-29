@@ -46,7 +46,7 @@ terraform apply
 |----------------------------|--------|--------------------------------------|------------------------------------------------|
 | billing_account_name       | string | the billing_account_name value        | ""                                             |
 | subscription_name          | string | Name of the subscription              | IAC-Compute-Subscription                      |
-| workload                   | string | the workload type                    | DevTest                                        |
+| workload                   | string | the workload type                    | Test                                        |
 | enrollment_account_name    | string | the enrollment_account_name value     | ""                                             |
 | azure_client_id            | string | app registration client_id            | ""                                             |
 | azure_client_secret        | string | app registration client_secret value  | ""                                             |
